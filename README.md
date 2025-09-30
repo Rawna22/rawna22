@@ -20,10 +20,13 @@
 ## 📌 Highlight Projects
 - 🔗 [Polkadot Wiki Fork](https://github.com/Rawna22/polkadot-wiki) – Contribution & experiments with Polkadot documentation  
 - 📊 [Connex](https://github.com/Rawna22/connex) – Testing & exploring decentralized app connectors  
-- ⚡ [Automation Scripts] – Scripts for tracking wallets & Web3 tasks (repo pribadi / akan ditambahkan)  
+- ⚡ [Automation Scripts] – Scripts for tracking wallets & Web3 tasks (https://github.com/Rawna22/wallet-tracker/)  
 
 ---
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&theme=tokyonight&hide_border=true)  
-![Langs](https://github-readme-stats.vercel.app/api/top-l
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawna22&layout=compact&theme=tokyonight)

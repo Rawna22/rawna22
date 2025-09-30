@@ -1,32 +1,51 @@
-# 👋 Hi, I'm Anwar (Rawna22)
+# Hi there 👋, I’m Rawna22
 
-💻 **About Me**  
-- 🌱 Currently exploring **Blockchain, Web3, and Full-stack Development**  
-- 🔭 Focused on learning smart contracts, Layer-2 ecosystems, and building automation tools  
-- 📫 Reach me at: rawnampwr@gmail.com 
-- ⚡ Fun fact: I enjoy blending crypto, coding, and problem-solving
-
----
-
-## 🚀 Tech Stack
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+### 🔭 About Me  
+- 💻 Passionate about Web3, blockchain, and automation scripts  
+- 📂 Developing projects like **wallet tracker**, **automation scripts** for monitoring wallets, etc.  
+- 🌱 Currently exploring smart contract integrations & full-stack Web3 tools  
 
 ---
 
-## 📌 Highlight Projects
-- 🔗 [Polkadot Wiki Fork](https://github.com/Rawna22/polkadot-wiki) – Contribution & experiments with Polkadot documentation  
-- 📊 [Connex](https://github.com/Rawna22/connex) – Testing & exploring decentralized app connectors  
-- ⚡ [Automation Scripts] – Scripts for tracking wallets & Web3 tasks (https://github.com/Rawna22/wallet-tracker)  
+## 🛠️ Highlight Projects  
+- **Wallet Tracker** — Script Python untuk monitoring saldo dan token Web3  
+- **Polkadot Wiki Fork** — Kontribusi & eksperimen dokumentasi Polkadot  
+- **Connex** — Testing & eksplorasi DApp connectors  
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&theme=tokyonight&hide_border=true)  
+## 📊 GitHub Stats & Top Languages  
 
-## 📊 Top Languages
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&theme=tokyonight)](https://github.com/Rawna22)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawna22&layout=compact&theme=tokyonight)](https://github.com/Rawna22)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawna22&layout=compact&theme=tokyonight)
+---
+
+## 📚 Skills & Tech Stack  
+| Area | Tools / Languages |
+|---|---|
+| Programming | Python, JavaScript |
+| Web3 / Blockchain | Web3.py, Infura / RPC, Covalent API, Smart Contracts |
+| Automation / Bots | Telegram Bot API, GitHub Actions |
+
+---
+
+## 🏆 Achievements & Badges  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Rawna22&theme=onedark)](https://github.com/Rawna22)  
+
+---
+
+## 📫 Contact & Connect  
+- Telegram: [@Rawna22](https://t.me/Rawna22)  
+- GitHub: <https://github.com/Rawna22>  
+
+---
+
+### 💡 Tips Tambahan  
+- Tambahkan foto profil & banner supaya lebih personal  
+- Tambahkan sedikit “Fun Facts” atau hobi agar siapa pun yang baca terasa “dekat”  
+- Update badges / stats secara berkala bila ada fitur baru  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House

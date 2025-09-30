@@ -20,7 +20,7 @@
 ## 📌 Highlight Projects
 - 🔗 [Polkadot Wiki Fork](https://github.com/Rawna22/polkadot-wiki) – Contribution & experiments with Polkadot documentation  
 - 📊 [Connex](https://github.com/Rawna22/connex) – Testing & exploring decentralized app connectors  
-- ⚡ [Automation Scripts] – Scripts for tracking wallets & Web3 tasks (https://github.com/Rawna22/wallet-tracker/)  
+- ⚡ [Automation Scripts] – Scripts for tracking wallets & Web3 tasks (https://github.com/Rawna22/wallet-tracker)  
 
 ---
 

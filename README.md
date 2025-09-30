@@ -41,11 +41,4 @@
 
 ---
 
-### 💡 Tips Tambahan  
-- Tambahkan foto profil & banner supaya lebih personal  
-- Tambahkan sedikit “Fun Facts” atau hobi agar siapa pun yang baca terasa “dekat”  
-- Update badges / stats secara berkala bila ada fitur baru  
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House

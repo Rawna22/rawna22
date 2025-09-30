@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Contact & Connect  
-- Telegram: [@Rawna22](https://t.me/Rawna22)  
+- Telegram: [@Rawna](https://t.me/clmlc)  
 - GitHub: <https://github.com/Rawna22>  
 
 ---

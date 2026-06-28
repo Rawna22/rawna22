@@ -1,63 +1,151 @@
-<h1 align="center">Hi 👋, I'm Rawna</h1>
-<h3 align="center">Backend Developer & Security Enthusiast from Indonesia</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rawna22&label=Profile%20Views&color=00ff88&style=flat" alt="Profile views" />
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Security+Enthusiast;Infrastructure+Builder;Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
----
+<br />
 
-### 🚀 About Me
+<!-- Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=00FF88&height=80&section=header&fontSize=30&fontColor=0a0a0a&animation=fadeIn" />
 
-- 🔭 I'm building **proxy infrastructure & automation tools**
-- 🌱 Currently exploring **AI gateways & anti-detection systems**
-- 💬 Ask me about **SSH/WireGuard configs, Xray, Docker, Python**
-- 📫 Reach me at: **Portofolio Saya [klik disini](https://ancokkali.vercel.app)**
-- 📍 Based in **Indonesia** | Open for freelance & remote work
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" />
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&theme=_dark&bg_color=0a0a0a&title_color=00ff88&icon_color=00ff88&text_color=e0e0e0&border_color=222222" alt="GitHub Stats" />
-</p>
+### 🔥 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawna22&theme=dark&background=0a0a0a&ring=00ff88&fire=00ff88&currStreakNum=e0e0e0&sideNums=e0e0e0&border=222222" alt="GitHub Streak" />
-</p>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f83815.gif">
+
+```yaml
+name: Rawna
+located_in: Indonesia
+current_focus:
+  - Proxy Infrastructure
+  - AI Gateway Systems
+  - Security Tooling
+
+education:
+  self_taught: true
+  loves: "Breaking things to learn how they work"
+
+technical_interests:
+  - Backend Architecture
+  - Network Security
+  - DevOps & Automation
+  - AI/ML Integration
+
+fields_of_interest:
+  field: "Software Development"
+  specialization: "Infrastructure & Security"
+```
+
+</div>
 
 ---
 
-### 🔗 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://ancokkali.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-  <a href="mailto:hello@rawna.dev">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🛠️ Arsenal
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,nodejs,go,bash,typescript&theme=dark" height="40" />
+<br />
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,cloudflare,git&theme=dark" height="40" />
+<br />
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,figma,heroku,redis,mongodb,postgres&theme=dark" height="40" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>⚡ "Building secure systems, one config at a time." ⚡</i>
-</p>
+<div align="center">
+
+### 📈 Analytics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawna22&layout=compact&bg_color=0D1117&title_color=00FF88&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rawna22&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&hide_border=false&area=true" />
+
+<!-- Streak Stats -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rawna22&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=c9d1d9&dates=8b949e&border=30363d" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Achievements
+
+<img width="100%" source="https://github-profile-trophy.vercel.app/?username=Rawna22&theme=matrix&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" />
+<a href="https://github-profile-trophy.vercel.app/?username=Rawna22&theme=darkhub&no-frame=true&column=7">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rawna22&theme=darkhub&no-frame=true&column=7" />
+</a>
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rawna22/Rawna22/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Rawna22/Rawna22/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Connect With Me
+
+<a href="https://ancokkali.vercel.app">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=000" />
+</a>
+<a href="mailto:hello@rawna.dev">
+  <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br /><br />
+
+<!-- Profile Views -->
+<img align="left" src="https://komarev.com/ghpvc/?username=Rawna22&color=00FF88&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer" />
+
+<sub>⚡ *"Code is poetry, infrastructure is art."* ⚡</sub>
+
+</div>

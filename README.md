@@ -1,28 +1,28 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  Hi, I'm Rawna
+</h1>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Infrastructure+Engineer;Security+Enthusiast;Automation+Builder" alt="Typing SVG" />
+<h3 align="center">Infrastructure Engineer · Security Enthusiast · Automation Builder</h3>
 
-<br/>
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=header" onerror="this.style.display='none'" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Rawna22">
+    <img src="https://img.shields.io/github/followers/Rawna22?label=Follow&style=social" />
+  </a>
+  <a href="https://twitter.com/AnwarRahmadi1">
+    <img src="https://img.shields.io/twitter/follow/AnwarRahmadi1?style=social" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
 ### 🔥 About Me
 
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abu/master/code.gif" onerror="this.src='https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f83815.gif'" />
-
 ```yaml
-name: Rawna
+name: Rawna (Anwar)
 located_in: Indonesia 🇮🇩
 focus:
-  - Proxy Infrastructure (Xray/VLESS/Trojan)
+  - Proxy Infrastructure (Xray / VLESS / Trojan)
   - AI Gateway & Automation
   - Security Tooling
   - Bot Development
@@ -33,102 +33,79 @@ tech_style:
   motto: "Build fast. Break things. Learn."
 ```
 
-<br clear="right"/>
-
-</div>
-
 ---
-
-<div align="center">
 
 ### 🛠️ Tech Stack
 
-<br />
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,bash,linux,docker,nginx,git,github,cloudflare,md&theme=dark&perline=10" height="40" />
+**DevOps & Infra:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-</div>
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
-<div align="center">
 
 ### 📈 GitHub Stats
 
-<br />
+<p align="center">
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true" />
+</p>
 
-<img width="480" src="https://github-readme-stats.vercel.app/api?username=Rawna22&show_icons=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" />
-
-<br /><br />
-
-<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawna22&layout=compact&bg_color=0D1117&title_color=00FF88&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-
-<br />
-
-<img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawna22&background=0D1117&stroke=30363d&ring=00FF88&fire=00FF88&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
+<p align="center">
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawna22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawna22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=c9d1d9" />
+</p>
 
 ---
-
-<div align="center">
 
 ### 🏆 Trophies
 
-<br />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rawna22&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=6" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rawna22&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=6" />
+</p>
 
 ---
-
-<div align="center">
 
 ### 🐍 Contribution Graph
-</div>
 
-<!-- Fallback: inline animated SVG grid (no external dependency) -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rawna22/Rawna22/output/github-contribution-grid-snake-dark.svg" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/raw/output/github-contribution-grid-snake.svg';" alt="Snake" width="100%" />
-
-_Refreshed daily at 00:00 UTC. If blank, check [workflow status](https://github.com/Rawna22/Rawna22/actions)._
-
-</div>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Rawna22/Rawna22/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-<div align="center">
+### 🤝 Connect With Me
 
-### 🤝 Connect
-
-<br />
-
-<a href="https://github.com/Rawna22">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://t.me/Rawna22">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://rawna22.github.io/portfolio/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rawna22&color=00FF88&style=flat-square&label=Profile+Views" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Rawna22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/AnwarRahmadi1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://t.me/Rawna22">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://rawna22.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-<sub>⚡ *"Code is poetry, infrastructure is art."* ⚡</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" onerror="this.style.display='none'" />
-
-</div>
+<p align="center">
+  <sub>⚡ <i>"Code is poetry, infrastructure is art."</i> ⚡</sub>
+</p>
